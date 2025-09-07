@@ -77,6 +77,7 @@ Watch Demo Video
 ### 📚 Book Recommender
 
 Watch Demo Video
+
 [books_recommender_system_demo.webm](https://github.com/user-attachments/assets/6add97d9-0dd6-4dd3-80e8-6e83b0fd7449)
 
 
