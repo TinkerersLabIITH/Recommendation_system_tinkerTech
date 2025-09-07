@@ -70,10 +70,14 @@ See it in action:
 
 Watch Demo Video
 
-https://github.com/TinkerersLabIITH/Recommendation_system_tinkerTech/issues/1#issue-3391246594
+[movies_recommender_system_demo.webm](https://github.com/user-attachments/assets/8547fc42-1ab7-4d37-ad1c-74109d3f3852)
+
+
 
 ### 📚 Book Recommender
 
 Watch Demo Video
 
-https://github.com/TinkerersLabIITH/Recommendation_system_tinkerTech/issues/2
+[books_recommender_system_demo.webm](https://github.com/user-attachments/assets/6add97d9-0dd6-4dd3-80e8-6e83b0fd7449)
+
+
