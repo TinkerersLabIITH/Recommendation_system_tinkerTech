@@ -66,7 +66,14 @@ streamlit run books_recommender_system.py
 ## Demo Videos
 See it in action: 
 
-**Movie Recommender**→ movies_recommender_system_demo.webm  
+### 🎬 Movie Recommender
 
-**Book Recommender** → streamlit-books_recommender_system_demo.webm 
-     
+Watch Demo Video
+
+https://github.com/TinkerersLabIITH/Recommendation_system_tinkerTech/issues/1#issue-3391246594
+
+### 📚 Book Recommender
+
+Watch Demo Video
+
+https://github.com/TinkerersLabIITH/Recommendation_system_tinkerTech/issues/2
